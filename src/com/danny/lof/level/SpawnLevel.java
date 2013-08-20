@@ -6,7 +6,7 @@ import javax.imageio.ImageIO;
 import com.danny.lof.level.tile.Tile;
 
 public class SpawnLevel extends Level {
-	
+	//Ahoj
 	private int[] levelPixels;
 	
 	public SpawnLevel(String path) {
